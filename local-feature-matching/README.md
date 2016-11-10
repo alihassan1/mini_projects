@@ -39,5 +39,7 @@ On this example, I achieved 83% detection accuracy. There were 139 total good ma
 
 ## References
 [1] Project 2: Local Feature Matching (James Hays) (http://www.cc.gatech.edu/~hays/compvision/proj2/).
+
 [2] Szeliski. Computer Vision: Algorithms and Applications. (http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf).
+
 [3] David G. Lowe. Distinctive Image Features from Scale-Invariant Keypoints (www.cs.ubc.ca/~lowe/papers/ijcv04.pdf).
