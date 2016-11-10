@@ -5,6 +5,9 @@ The goal of this project was to create a local feature matching algorithm using 
 
 ## Interest Point Detection (Harris Corners Detector)
 To find interest points, I implemented the Harris Corner Detector as described in Szeliski 4.1.1 [2]. Following are the visualizations of intermediate results.
+<p align="center">
+<img src="https://github.com/alihassan1/mini_projects/blob/master/local-feature-matching/results/harris.png" width="90%"/>
+</p>
 
 ## Feature Extraction (simplified SIFT)
 For this part, I implemented a SIFT like feature descriptor as described in Szeliski 4.1.2 [2]. It creates a histogram of gradient orientations in 8 directions. I tested my pipeline on a 16x16 patch, which is then decided into a 4x4 grid, each element of the grid contains sum of the magnitude of gradient orientations in 8 directions, which makes it a 128 dimensional feature descriptor i.e. 4x4x8 = 128. 
