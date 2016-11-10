@@ -9,6 +9,10 @@ This repository contains some of the projects I worked on recently.
 <img src="https://github.com/alihassan1/mini_projects/blob/master/local-feature-matching/results/Mount_Rushmore_eval.jpg" width="90%"/>
 </p>
 
+<p align="center">
+<img src="https://github.com/alihassan1/mini_projects/blob/master/local-feature-matching/results/Mount_Rushmore_vis_arrows.jpg" width="90%"/>
+</p>
+
 ### <a href="https://github.com/alihassan1/mini_projects/tree/master/local-feature-matching"> Harris Corners Detector  </a>
 <p align="center">
 <img src="https://github.com/alihassan1/mini_projects/blob/master/local-feature-matching/results/harris.png" width="90%"/>
