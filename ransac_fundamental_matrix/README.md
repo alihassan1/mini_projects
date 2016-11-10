@@ -53,3 +53,8 @@ Visualization the epipolar lines on the images and corresponding matches.
 <img src="https://github.com/alihassan1/mini_projects/blob/master/ransac_fundamental_matrix/results/Episcopal-Gaudi_epipolar_lines_1.jpg" width="45%"/>
 <img src="https://github.com/alihassan1/mini_projects/blob/master/ransac_fundamental_matrix/results/Episcopal-Gaudi_epipolar_lines_2.jpg" width="45%"/>
 </p>
+
+## References
+[1] Project 5: Camera Calibration and Fundamental Matrix Estimation with RANSAC (http://www.cc.gatech.edu/~hays/compvision/proj3/)
+
+[2] Szeliski. Computer Vision: Algorithms and Applications. (http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf).
